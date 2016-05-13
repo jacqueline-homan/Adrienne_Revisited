@@ -1,0 +1,5 @@
+/home/jacque/Projects/F-sharp/Adrienne_Revisited/Adrienne_Revisited/obj/x86/Release/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/jacque/Projects/F-sharp/Adrienne_Revisited/Adrienne_Revisited/bin/Release/Adrienne_Revisited.exe
+/home/jacque/Projects/F-sharp/Adrienne_Revisited/Adrienne_Revisited/obj/x86/Release/Adrienne_Revisited.exe
+/home/jacque/Projects/F-sharp/Adrienne_Revisited/Adrienne_Revisited/bin/Release/YamlDotNet.dll
+/home/jacque/Projects/F-sharp/Adrienne_Revisited/Adrienne_Revisited/bin/Release/FSharp.Data.dll
